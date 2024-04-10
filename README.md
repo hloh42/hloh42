@@ -1,7 +1,13 @@
 # Hi , I am Hao Yi !👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hloh42)](https://github.com/hloh42/github-readme-stats)
-<!--
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=hloh42"/>
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hloh42&layout=compact"/>
+
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hloh42&show_icons=true)](https://github.com/hloh42/github-readme-stats&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hloh42&layout=compact)](https://github.com/hloh42/github-readme-stats&layout=compact)
+
+
 **hloh42/hloh42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
